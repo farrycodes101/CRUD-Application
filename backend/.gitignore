@@ -1,0 +1,20 @@
+# Ignore .env file (contains sensitive data)
+.env
+
+# Ignore node_modules (for Node.js projects)
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore build directories
+build/
+dist/
+
+# Ignore dependency directories
+package.json
+package-lock.json
